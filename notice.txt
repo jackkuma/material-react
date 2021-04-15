@@ -1,3 +1,5 @@
+https://material-table.com/#/docs/features/fixed-columns
+https://blog.bitsrc.io/top-5-react-table-libraries-170505f75da7
+
 https://material-table.com/#/docs/install
 https://material-ui.com/zh/components/tables/#sorting-amp-selecting
-https://blog.bitsrc.io/top-5-react-table-libraries-170505f75da7
